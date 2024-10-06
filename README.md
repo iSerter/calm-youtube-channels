@@ -5,6 +5,7 @@ I do. That's why I'm starting this list of YouTube channels that'll help us keep
 ### Software & Tech 
 
 - [Kristian Freeman](https://www.youtube.com/@kristianfreemantx)
+- [Matt Williams](https://www.youtube.com/@technovangelist)
 - [Maya Akim](https://www.youtube.com/@maya-akim)
 - [Nick Puru](https://www.youtube.com/@NicholasPuru)
 - Please, be my guest and contribute.
