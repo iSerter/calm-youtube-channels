@@ -1,6 +1,5 @@
 # Calm YouTube Channels (The Sane Side of YouTube)
-Do you ever get tired of overly hyped/excited YouTubers? 
-I do. That's why I'm starting this list of YouTube channels that'll help us keep our sanity. 
+tired of overly hyped/excited YouTubers?  Check out my sanctuary.
 
 ### Software & Tech 
 
@@ -8,4 +7,5 @@ I do. That's why I'm starting this list of YouTube channels that'll help us keep
 - [Matt Williams](https://www.youtube.com/@technovangelist)
 - [Maya Akim](https://www.youtube.com/@maya-akim)
 - [Nick Puru](https://www.youtube.com/@NicholasPuru)
+- [AI Agents A-Z](https://www.youtube.com/@aiagentsaz)
 - Please, be my guest and contribute.
